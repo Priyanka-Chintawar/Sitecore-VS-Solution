@@ -1,0 +1,28 @@
+﻿@model IEnumerable<AltudoBatch1.Project.Altudo.Models.LeadershipDetails>
+
+
+
+<h2>Leaders List:</h2>
+@foreach (var leader in Model)
+{
+    <div>
+        @leader.Name
+    </div>
+    <div>
+        @leader.Designation
+    </div>
+    <div>
+        @leader.ContactNumber
+    </div>
+    <div>
+        @leader.ProfileBrief
+    </div>
+    <div>
+        @leader.ProfilePicture
+    </div>
+
+   /* <div>
+        <a href="@authorItem.Url">@authorItem.Name</a>
+    </div>*/
+}
+
