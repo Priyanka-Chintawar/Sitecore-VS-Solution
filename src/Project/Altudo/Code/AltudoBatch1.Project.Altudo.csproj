@@ -276,6 +276,15 @@
     <Content Include="Views\Altudo\TechArticle.cshtml" />
     <Content Include="Views\Altudo\ArticleAuthors.cshtml" />
     <Content Include="Views\Altudo\ListofLeaders.cshtml" />
+    <Content Include="App_Config\Include\Project\Altudo\Altudo.SiteDefination.NorthEast.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="App_Config\Include\Project\Altudo\Altudo.SiteDefination.NorthIndia.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="App_Config\Include\Project\Altudo\Altudo.SiteDefination.SouthIndia.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -299,6 +308,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Views\ArticleAuthors\" />
+    <Folder Include="Views\HeroBanner\" />
     <Folder Include="Views\LeastOfLeaders\" />
     <Folder Include="Views\ListOfLeaders\" />
   </ItemGroup>

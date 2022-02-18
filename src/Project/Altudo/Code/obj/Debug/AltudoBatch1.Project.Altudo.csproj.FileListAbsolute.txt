@@ -1,4 +1,6 @@
-C:\Sitecore\Altudo\src\Project\Altudo\Code\obj\Debug\AltudoBatch1.Project.Altudo.csproj.CoreCompileInputs.cache
+C:\Sitecore\Altudo\src\Project\Altudo\Code\bin\App_Config\Include\Project\Altudo\Altudo.SiteDefination.NorthEast.config
+C:\Sitecore\Altudo\src\Project\Altudo\Code\bin\App_Config\Include\Project\Altudo\Altudo.SiteDefination.NorthIndia.config
+C:\Sitecore\Altudo\src\Project\Altudo\Code\bin\App_Config\Include\Project\Altudo\Altudo.SiteDefination.SouthIndia.config
 C:\Sitecore\Altudo\src\Project\Altudo\Code\bin\AltudoBatch1.Project.Altudo.dll.config
 C:\Sitecore\Altudo\src\Project\Altudo\Code\bin\AltudoBatch1.Project.Altudo.dll
 C:\Sitecore\Altudo\src\Project\Altudo\Code\bin\AltudoBatch1.Project.Altudo.pdb
@@ -166,7 +168,7 @@ C:\Sitecore\Altudo\src\Project\Altudo\Code\bin\System.Web.Webpages.Razor.xml
 C:\Sitecore\Altudo\src\Project\Altudo\Code\bin\System.Web.Helpers.xml
 C:\Sitecore\Altudo\src\Project\Altudo\Code\bin\System.Web.Mvc.xml
 C:\Sitecore\Altudo\src\Project\Altudo\Code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Sitecore\Altudo\src\Project\Altudo\Code\obj\Debug\AltudoBatch1.Project.Altudo.csproj.CoreCompileInputs.cache
 C:\Sitecore\Altudo\src\Project\Altudo\Code\obj\Debug\AltudoBatch1.Project.Altudo.csproj.CopyComplete
 C:\Sitecore\Altudo\src\Project\Altudo\Code\obj\Debug\AltudoBatch1.Project.Altudo.dll
 C:\Sitecore\Altudo\src\Project\Altudo\Code\obj\Debug\AltudoBatch1.Project.Altudo.pdb
-C:\Sitecore\Altudo\src\Project\Altudo\Code\obj\Debug\AltudoBatch1.Project.Altudo.csproj.AssemblyReference.cache

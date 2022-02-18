@@ -1,0 +1,13 @@
+﻿@model IEnumerable<AltudoBtc1.Feature.DetailPage.Models.Details>
+
+@foreach (var item in Model)
+{
+    <a href="@item.RedirectUrl">@item.Title</a>
+    <div>
+        <div>@item.Description</div>
+        <div> @item.CardImage</div>
+
+    </div>
+}
+
+
