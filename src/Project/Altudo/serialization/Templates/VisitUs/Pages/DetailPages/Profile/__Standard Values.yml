@@ -1,0 +1,45 @@
+﻿---
+ID: "1e46ac6f-5a52-422a-81a0-b5acbd55972f"
+Parent: "fa7cb0da-e1fe-488f-ab94-9c92bf49a0ed"
+Template: "fa7cb0da-e1fe-488f-ab94-9c92bf49a0ed"
+Path: /sitecore/templates/Project/VisitUs/Pages/DetailPages/Profile/__Standard Values
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{204F9BD2-B023-4E9D-AF04-9113C8A2BD96}">
+        <r
+          id="{26C1D2A0-F3B4-4463-8797-05B4EE810C68}"
+          ph="altudo-main"
+          uid="{4221A43D-1121-471E-A31A-2791A0F8731E}" />
+        <r
+          id="{DD1F260E-A166-4CC2-B947-919D6DC33307}"
+          ph="altudo-main"
+          uid="{03E3896E-602D-4DB1-8A14-33C575FDBE04}" />
+        <r
+          id="{8EF076A2-66E8-4080-8963-F3A235ADE1A1}"
+          ph="altudo-main"
+          uid="{D9E75F27-5860-4D15-8401-F14006904FE4}" />
+        <r
+          id="{6A593753-01F5-4D1E-B1F2-D27FDC959CED}"
+          ph="altudo-main"
+          uid="{6CE817B7-8F6F-476A-A503-8121A57B7707}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220214T133246Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

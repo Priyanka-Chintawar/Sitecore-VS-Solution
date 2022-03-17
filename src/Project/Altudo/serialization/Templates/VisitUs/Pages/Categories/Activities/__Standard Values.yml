@@ -1,0 +1,35 @@
+﻿---
+ID: "72c3d071-20b0-4e34-8579-7a9e66781527"
+Parent: "065038b8-c684-400b-baf7-397549c18d60"
+Template: "065038b8-c684-400b-baf7-397549c18d60"
+Path: /sitecore/templates/Project/VisitUs/Pages/Categories/Activities/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {730837D0-EFB0-4AE5-B75C-C5623691007F}
+    {58701E0F-D0D7-42DE-A5F0-649F5F42F657}
+    {50242620-A69E-42A2-85BB-EA2E4EA1A7E8}
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{204F9BD2-B023-4E9D-AF04-9113C8A2BD96}" />
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220211T150345Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

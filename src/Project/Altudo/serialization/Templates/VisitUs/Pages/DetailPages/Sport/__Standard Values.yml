@@ -1,0 +1,48 @@
+﻿---
+ID: "1e79ff1a-aa15-42ad-98cb-b12d8d8e9773"
+Parent: "3daa8ac5-1560-4614-bf74-237b061dc5ca"
+Template: "3daa8ac5-1560-4614-bf74-237b061dc5ca"
+Path: /sitecore/templates/Project/VisitUs/Pages/DetailPages/Sport/__Standard Values
+DB: master
+SharedFields:
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{66BC819C-268B-4830-8270-FF3D03351A16}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{204F9BD2-B023-4E9D-AF04-9113C8A2BD96}">
+        <r
+          id="{26C1D2A0-F3B4-4463-8797-05B4EE810C68}"
+          ph="altudo-main"
+          uid="{93C0B602-9323-4777-9B28-715B9A2C3A63}" />
+        <r
+          id="{DD1F260E-A166-4CC2-B947-919D6DC33307}"
+          ph="altudo-main"
+          uid="{417FB966-A1B9-407D-8D5F-877BEA4EDB74}" />
+        <r
+          id="{8EF076A2-66E8-4080-8963-F3A235ADE1A1}"
+          ph="altudo-main"
+          uid="{4FCEC49B-3E98-4C86-8A89-E461D5270B47}" />
+        <r
+          id="{6A593753-01F5-4D1E-B1F2-D27FDC959CED}"
+          ph="altudo-main"
+          uid="{B1DC87FD-2D01-4CA7-8581-F20923FFB43F}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220214T133321Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,22 @@
+﻿---
+ID: "79161772-dce4-4740-bad4-dddf214afab0"
+Parent: "021c194f-cdcb-4062-a8d9-838c67dff9d3"
+Template: "cb01f9fc-c187-46b3-ab0b-97a8468d8303"
+Path: /sitecore/system/Workflows/VisitUs Workflow/Draft/Send to prepublishing review
+DB: master
+SharedFields:
+- ID: "dcbebc58-6124-4100-a248-fc717d6c78d5"
+  Hint: Next state
+  Value: "{6285A868-F981-4C69-9E06-AD00F40D4E40}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220221T111511Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

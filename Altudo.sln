@@ -25,6 +25,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ListingPage", "ListingPage"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AltudoBtc1.Feature.ListingPage", "src\Feature\ListingPage\Website\AltudoBtc1.Feature.ListingPage.csproj", "{3B0E0CC1-753F-43C2-ACE8-5B662B614788}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serialization", "Serialization", "{996C08A1-7DF1-47AA-A903-74FE41A64A9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AltudoBtc1.Foundation.Serialization", "SCode\Altudo-1\src\Foundation\Serialization\website\AltudoBtc1.Foundation.Serialization.csproj", "{6ACD38D0-7881-44E2-8C63-8274201D61E3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Search", "Search", "{1C4B63B4-910F-43D6-9417-4360F91A57DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AltudoBatch1.Project.Search", "src\Project\Search\Website\AltudoBatch1.Project.Search.csproj", "{E6F50E79-F787-4404-85CE-61E8B4889F21}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Search", "Search", "{DD8F731B-28A7-4777-9AC8-951A3DDB315F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Altudo.Foundation.Search", "src\Foundation\Search\Website\Altudo.Foundation.Search.csproj", "{C4F7BD6A-333D-461C-BFDF-56DD9E37C034}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +59,18 @@ Global
 		{3B0E0CC1-753F-43C2-ACE8-5B662B614788}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B0E0CC1-753F-43C2-ACE8-5B662B614788}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B0E0CC1-753F-43C2-ACE8-5B662B614788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ACD38D0-7881-44E2-8C63-8274201D61E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ACD38D0-7881-44E2-8C63-8274201D61E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ACD38D0-7881-44E2-8C63-8274201D61E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ACD38D0-7881-44E2-8C63-8274201D61E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6F50E79-F787-4404-85CE-61E8B4889F21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6F50E79-F787-4404-85CE-61E8B4889F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6F50E79-F787-4404-85CE-61E8B4889F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6F50E79-F787-4404-85CE-61E8B4889F21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F7BD6A-333D-461C-BFDF-56DD9E37C034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F7BD6A-333D-461C-BFDF-56DD9E37C034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F7BD6A-333D-461C-BFDF-56DD9E37C034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F7BD6A-333D-461C-BFDF-56DD9E37C034}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -60,9 +84,15 @@ Global
 		{F2AFA104-F610-485D-8352-505E111D2D09} = {671366F9-EE30-4105-8172-A824700A794E}
 		{350FBD3E-366F-43D0-930A-891C7653CEA9} = {11EB3B15-1CFF-4670-B3C4-F7B78A469D7C}
 		{3B0E0CC1-753F-43C2-ACE8-5B662B614788} = {350FBD3E-366F-43D0-930A-891C7653CEA9}
+		{996C08A1-7DF1-47AA-A903-74FE41A64A9D} = {3A6F80C1-F05A-4783-AEAF-09EB283D47A9}
+		{6ACD38D0-7881-44E2-8C63-8274201D61E3} = {996C08A1-7DF1-47AA-A903-74FE41A64A9D}
+		{1C4B63B4-910F-43D6-9417-4360F91A57DC} = {67B383C3-69FB-45FE-949A-488AB4B83EC6}
+		{E6F50E79-F787-4404-85CE-61E8B4889F21} = {1C4B63B4-910F-43D6-9417-4360F91A57DC}
+		{DD8F731B-28A7-4777-9AC8-951A3DDB315F} = {3A6F80C1-F05A-4783-AEAF-09EB283D47A9}
+		{C4F7BD6A-333D-461C-BFDF-56DD9E37C034} = {DD8F731B-28A7-4777-9AC8-951A3DDB315F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8FD17A92-4B9D-489F-9646-C5CFDCD8ED3A}
 		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8;packages\EnterpriseLibrary.TransientFaultHandling.Caching.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Data.6.0.1304.1\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.ServiceBus.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Configuration.6.0.1304.0\lib\NET45
+		SolutionGuid = {8FD17A92-4B9D-489F-9646-C5CFDCD8ED3A}
 	EndGlobalSection
 EndGlobal

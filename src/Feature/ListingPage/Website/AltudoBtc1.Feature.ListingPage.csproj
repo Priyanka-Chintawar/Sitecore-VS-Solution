@@ -271,6 +271,7 @@
   <ItemGroup>
     <Content Include="Content\Site.css" />
     <Content Include="Views\Altudo\ListingPage\Listing.cshtml" />
+    <Content Include="App_Config\Include\Feature\ListingPage\Altudo.Feature.ListingPage.Serialization.config" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

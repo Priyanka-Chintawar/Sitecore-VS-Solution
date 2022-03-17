@@ -1,0 +1,48 @@
+﻿---
+ID: "3b9cdfc9-f515-459c-b8f0-e2cced57bc9b"
+Parent: "8d3d2499-4b42-496d-b61d-eee7e19f018d"
+Template: "8d3d2499-4b42-496d-b61d-eee7e19f018d"
+Path: /sitecore/templates/Project/VisitUs/Pages/DetailPages/Restaurant/__Standard Values
+DB: master
+SharedFields:
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{66BC819C-268B-4830-8270-FF3D03351A16}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{204F9BD2-B023-4E9D-AF04-9113C8A2BD96}">
+        <r
+          id="{26C1D2A0-F3B4-4463-8797-05B4EE810C68}"
+          ph="altudo-main"
+          uid="{E71357AE-0D80-416C-93D0-E5CDA6532FC2}" />
+        <r
+          id="{DD1F260E-A166-4CC2-B947-919D6DC33307}"
+          ph="altudo-main"
+          uid="{E00C0033-EB6B-4251-A660-43369BBD3A1C}" />
+        <r
+          id="{8EF076A2-66E8-4080-8963-F3A235ADE1A1}"
+          ph="altudo-main"
+          uid="{78CC32E6-01C6-431D-8BF8-78D256D6E970}" />
+        <r
+          id="{6A593753-01F5-4D1E-B1F2-D27FDC959CED}"
+          ph="altudo-main"
+          uid="{35152292-181F-4171-AB3B-1A1F3ECC3D24}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220214T133202Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
